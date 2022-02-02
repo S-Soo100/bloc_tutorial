@@ -39,6 +39,8 @@ dependencies:
   freezed: ^1.1.1
   build_runner:
   json_serializable:
+  flutter_bloc: ^7.3.3
+  convert: ^3.0.1
 
 dev_dependencies:
   flutter_test:
